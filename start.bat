@@ -25,7 +25,7 @@ if not exist "node_modules\" (
     echo [ERROR] npm install failed.
     pause
     exit /b 1
-  )
+
 )
 
 echo.
